@@ -1,0 +1,9 @@
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\bin\Debug\Primeira Aula.exe.config
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\bin\Debug\Primeira Aula.exe
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\bin\Debug\Primeira Aula.pdb
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\obj\Debug\Primeira Aula.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\obj\Debug\Primeira Aula.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\obj\Debug\Primeira Aula.exe
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\obj\Debug\Primeira Aula.pdb
+C:\Users\aluno\Desktop\Primeira Aula\Primeira Aula\obj\Debug\Primeira_Aula.frmPrincipal.resources

@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\bin\Debug\Atividade Primeira Aula.exe.config
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\bin\Debug\Atividade Primeira Aula.exe
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\bin\Debug\Atividade Primeira Aula.pdb
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\obj\Debug\Atividade_Primeira_Aula.frmAtividade.resources
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\obj\Debug\Atividade_Primeira_Aula.Properties.Resources.resources
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\obj\Debug\Atividade Primeira Aula.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\obj\Debug\Atividade Primeira Aula.exe
+C:\Users\aluno\Desktop\Atividade Primeira Aula\Atividade Primeira Aula\obj\Debug\Atividade Primeira Aula.pdb
